@@ -1,0 +1,1 @@
+import{a as o,j as r}from"./index-DMhw9xKJ.js";import{C as a}from"./ChatShell-etdW7d0y.js";import"./input-BvF9aki3.js";import"./sparkles-C-_WCuLm.js";function p(){const{threadId:t}=o.useParams();return r.jsx(a,{threadId:t})}export{p as component};
